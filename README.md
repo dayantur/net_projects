@@ -1,5 +1,5 @@
-# MFPT_projects
-Projects on Mean First Passage Time made with python.
+# net_projects
+Projects on networks.
 
--- MFPT
-- jupyther notebook for MFPT over coloured networks.
+-- Reshuffling
+- jupyther notebook for reshuffling the assignment of colours keeping one of them fixed over a coloured network.
